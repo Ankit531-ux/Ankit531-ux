@@ -16,7 +16,6 @@ def power4(x,y):
 def power5 (x,y):
     return x*num1*num1*num1*y
 print("select operation")
-print("1.add")
 print("2.subtract")
 print("3.multiply")
 print("4.divide")
